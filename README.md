@@ -1,5 +1,5 @@
 # Simple Calculator
-A basic calculator made by using HTML + CSS + Javascript.
+A basic calculator made by using HTML + CSS + Javascript..
 
 Screenshot
 
